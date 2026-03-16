@@ -8,13 +8,16 @@ I am a software developer and SRE from Russia with over 3 years of experience in
 * Python • Rust • Kotlin
 
 **AI & Large Language Models**
-* LLM Agents • LLM Automations & Workflows
+* LLM Agents • LLM Automations & Workflows • N8N
 
 **Data Engineering & Streaming**
 * ClickHouse • Redpanda / Kafka • Hadoop • Apache Spark
 
 **Infrastructure & SRE**
-* K3s (Kubernetes) • Site Reliability Engineering best practices
+* K3s (Kubernetes) • Site Reliability Engineering best practices • Docker • K6/wrk
+  
+**Monitoring & SRE**
+* ELK • VictoriaMetrics/Prometheus • Grafana • [OZON logging-stack](https://ozon.tech/logging-stack?__rr=1&abt_att=1#banner326571)
 
 ## 🚀 What I Do
 
@@ -28,4 +31,6 @@ I am a software developer and SRE from Russia with over 3 years of experience in
 * **Email:** [aqu.de@yandex.ru](mailto:aqu.de@yandex.ru)
 
 ---
-⭐️ *From Russia with code*
+<p align="center">
+  <img src="made-in-russia-sign-ru.png" alt="Made in Russia" width="100">
+</p>
