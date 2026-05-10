@@ -1,4 +1,4 @@
-* **Telegram:** [@clouddotcom](https://t.me/clouddotcom)
+* **Telegram:** [@clouddotcom](https://t.me/rustnomicon)
 * **Email:** [aqu.de@yandex.ru](mailto:aqu.de@yandex.ru)
 
 ---
