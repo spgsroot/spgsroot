@@ -1,6 +1,4 @@
-Sergey Tovpeko
-DevOps/SRE
-
+Contacts:
 * **Telegram:** [@rustnomicon](https://t.me/rustnomicon)
 * **Email:** [aqu.de@yandex.ru](mailto:aqu.de@yandex.ru)
 
